@@ -1,0 +1,13 @@
+# Frontend dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+.env

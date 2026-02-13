@@ -15,12 +15,22 @@ Agente: 📊 Valor total: $990.83
         ⚠️ Riesgo: MSFT (-19.81%)
 ```
 
-## Screenshots
+## Interfaz
 
-![Chat Interface](screenshots/chat.png)
-![Portfolio Dashboard](screenshots/portfolio.png)
-![Price Charts](screenshots/chart.png)
-![Dark Mode](screenshots/dark-mode.png)
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/151b2a1d-fe3b-4db2-bc33-33f9052e89b9" />
+
+## charts
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/60fa8d2e-bcbd-4346-a92f-7683629a8c9a" />
+
+## Portfolio
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/02ac0050-d50e-4bd9-ac47-85bc5a25f8fa" />
+
+## Dark Mode
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/17a621f6-de44-47d3-ba46-9a3b54daabb7" />
+
+## Markyt-gif
+![markyt](https://github.com/user-attachments/assets/e739c61a-8148-4204-a919-6bb46daf9605)
+
 
 ## Stack Técnico
 
